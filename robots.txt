@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://topediab.github.io/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/app/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/assets/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/css/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/data/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/includes/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/item/sitemap.topediab.gz
+Sitemap: https://topediab.github.io/src/sitemap.topediab.gz
